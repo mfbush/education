@@ -1,0 +1,1 @@
+pandoc -r commonmark_x accessible-documents.md -o accessible-documents.docx --reference-doc reference.docx
